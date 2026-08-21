@@ -3,6 +3,5 @@
   "extends": ["config:recommended"],
   "labels": ["dependencies"],
   "assigneesFromCodeOwners": true,
-  "allowedCommands": ["yarn test -u"],
   "ignoreDeps": ["ruby"]
 }
